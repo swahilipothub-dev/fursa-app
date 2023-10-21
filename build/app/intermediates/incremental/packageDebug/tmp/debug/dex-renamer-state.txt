@@ -1,0 +1,4 @@
+#Wed Oct 11 12:49:26 EAT 2023
+base.0=/Users/chris/swahilipot/fursa/fursapp-deploytest/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
